@@ -208,18 +208,4 @@ window.onload = function() {
     clearGrid();
     saveGridInLocalStorage();
     buttonVQV();
-  
-    let color1 = document.getElementById('color-1');
-    let color2 = document.getElementById('color-2');
-    let color3 = document.getElementById('color-3');
-    color1.style.backgroundColor = '#ffd521';
-    color2.style.backgroundColor = '#f05e2f';
-    color3.style.backgroundColor = '#ffffff';
-    
-
-
-
-
-
-
-    }
+   }
